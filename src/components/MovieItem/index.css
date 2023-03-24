@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  .pop-container {
+    height: 30vh;
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    background-color: white;
+    padding: 10px;
+  }
+  .trigger-button {
+    background: transparent;
+    border-style: none;
+    border-width: 0px;
+  }
+  .closebtn {
+    margin-left: 650px;
+    background: transparent;
+    border: 0px;
+  }
+  .cross-icon {
+    width: 20px;
+    height: 20px;
+  }
+  

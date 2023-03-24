@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.prime-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .movie-container {
+    width: 1400px;
+    margin-bottom: 30px;
+    padding: 10px;
+    margin: 10px;
+  }
+  .movie-image {
+    width: 330px;
+  }
+  .prime-image {
+    width: 100%;
+  }
+  
+  .heading {
+    color: white;
+    font-family: Roboto;
+  }
+  
